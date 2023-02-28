@@ -1,20 +1,7 @@
-.holder{
-	display:flex;
-	background-color:green;
-	
-	
-}
-.item{
-	
-	
-	background-color:orange;
-	padding:20px;
-	margin:5px;
-	 height: 200px;
-}
-.one{
-	background-color:orange;
-	padding:20px;
-	margin:5px;
+
+.item-1{
 	align-self:center;
 }
+	
+	
+
