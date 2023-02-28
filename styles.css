@@ -5,12 +5,15 @@
 }
 .item{
 	
-	height:100px;
-	width:50px;
+	
 	background-color:orange;
 	padding:20px;
 	margin:5px;
+	 height: 200px;
 }
-.item>#one{
+.one{
+	background-color:orange;
+	padding:20px;
+	margin:5px;
 	align-self:center;
 }
